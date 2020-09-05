@@ -1,58 +1,34 @@
-inx-game Wordpress Gaming Theme
-========================================
+=== Inx Game ===
+Contributors: aThemeArt
+Donate link:  https://athemeart.com/downloads/free-wordpress-gaming-themes/
+Requires at least: 5.0
+Tested up to: 5.5.0
+Requires PHP: 7.0
+License: GPLv3 or later 
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-<a href="https://athemeart.com/downloads/inx-game-wordpress-casino-theme/" target="_blank"><img src="https://athemeart.com/wp-content/uploads/edd/2020/07/inx-game-main.jpg" alt="Wordpress Gaming Theme" /></a>
+== Description ==
 
-<h4><a href="https://athemeart.com/demo/inx-game/" target="_blank">Live Demo.</a> | <a href="https://athemeart.com/blog/docs/casino-wordpress-themes-documentation/" target="_blank">Documentation</a></h4>
-
-
-INX <a href="https://wordpress.org/themes/inx-game/" target="_blank">WordPress gaming theme</a> is the best option if you want to spice up your website with the unique flavor of gambling. If you are looking for a casino environment, INX is the best option you can have for free. The game is specifically designed for a die-hard casino fan base in mind. 
-
-Well, the theme comes with both free and premium versions. Of course, you need a premium version to enjoy all advanced features, but the free version is also full of awesome options. With the pro version, you can make an affiliate casino website and earn handsome revenue. 
-INX is a stylish, modern, and clean WordPress gaming theme that also satisfies other genres. INX is also suitable for news websites, news blogs, and news portals, and coupon websites.
-
-Other Notable Features
-========================================
-They are the Theme Customizer, Blog posts layout, sidebar style, and elementor plugin. The theme comes with many add-ons of elementor, to help you come up with your dream pages. 
-
-Speaking of blog posts layout, the theme comes with the standard layout. You have to go pro for grid layout. 
-Here is a list of many awesome features. 
-
-1.	Sidebar Disable/Enable
-2.	Social Share
-3.	Footer Credits
-4.	Related Posts
-5.	Custom Blog Template
-6.	Custom Page Template
-7.	Hero Section
-8.	Game portal module	
-9.	Casino Affiliate Module	
-10.	Demo Site /One-click demo import		
-11.	Unlimited Google Fonts	
-12.	Unlimited color scheme			
-13.	Responsive Design
-14.	Unlimited Layout Options
+InXgame is a free gaming theme designed to empower, inspire, and help express your love for all things gaming, casino, news & reviews blogs. Share your unique passion with the gaming & casino affiliate community. In short, the theme is excellent for building your profitable affiliate marketing blogging website without any technical skills. Has a fully responsive and retina-ready design. Four post templates, nine custom widgets, such as the latest post types, Breaking news, and casino affiliate. you will be able to write articles and blog posts with ease. Great for gambling, casinos, poker, sports betting, and lottery. Build own a successful, high-quality website using a gaming affiliate WordPress theme. Works with Elementor plus other major page builders so you can create any layout you want. The theme is responsive, Gutenberg compatible, SEO friendly, translation ready and major WordPress plugins compatible. demo : https://athemeart.com/demo/inx-game
 
 
-In the Nutshell
-INX is a minimal and clean WordPress theme. Mainly designed for the gambling genre, it is also suitable for many other categories. Download this incredible theme today and boost up your sales. 
 
-
-<pre>
 == Copyright ==
 Inx Game WordPress Theme, Copyright (C) 2020 aThemeArt.com
 Inx Game is distributed under the terms of the GNU GPL
-</pre>
 
-<pre>
+== Frequently Asked Questions == 
+
+1. How to add screenshot box .
+	please use elementor page builder and theme recommended plugins, you will find lot of widget to create as our screenshot.
+
+   	
 == Installation ==
 	
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
 2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
-</pre>
 
-<pre>
 == Credits ==
 
 Underscores:
@@ -117,11 +93,14 @@ source: https://pxhere.com/en/photo/774160
 
 Name : screenshot.png logo, 404.png and ads
 License:  Self created by athemeart.com 
-</pre>
 
 
-<pre>
+== Screenshots ==
+
+1. screenshot.png
+
 == Upgrade Notice  ==
+
 = 1.0.6 =
 * Add unlimited color options
 * sidebar Responsive issue fixed
@@ -147,5 +126,3 @@ License:  Self created by athemeart.com
 = 1.0.0 =
 * initial released
 
-
-</pre>

@@ -1,0 +1,74 @@
+/*
+Theme Name: inx game
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+	text-align:right;
+}
+.rd-navbar-static .rd-navbar-nav > li{
+	float:right;	
+}
+.rd-navbar-social-icon{
+	right:auto;
+	left:0px;
+}
+.rd-navbar-static .rd-navbar-dropdown, .rd-navbar-static .rd-navbar-megamenu{
+	text-align:right;	
+}
+.widget-title {
+    padding-left: 0px;
+    padding-right: 20px;
+}
+.widget-title::before,
+.widget-title::after {
+	left:auto;
+	right:0px;
+}
+#content .inx-single-post ul.post-meta li{
+	padding-left:30px;
+	padding-right:0px;	
+}
+#content .inx-single-post ul.post-meta li::after {
+    right:auto;
+	left:15px;
+}
+#content .post-meta-wrap .tb-cell.avatar {
+    padding-left: 20px;
+	padding-0: 0px;
+}
+#colophon.site-footer .social-list{
+	float:left;
+	
+}
+a.ui-to-top{
+	right:auto;
+	left:20px;	
+}
+.rd-navbar-static .rd-navbar-nav > li > .rd-navbar-dropdown .rd-navbar-dropdown {
+    left:auto;
+	right:100%;
+    
+}
+.rd-navbar-static ul.rd-navbar-dropdown ul {
+    margin-left:0px;
+    margin-right:10px;
+}
+.rd-navbar-static ul.rd-navbar-dropdown ul li:first-child::before {
+	left:auto;
+	right:-8px;	
+	border-top: 8px solid transparent;
+	border-left: 8px solid #232323;
+	border-bottom: 8px solid transparent;
+	border-right:none;
+}
+
