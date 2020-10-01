@@ -9,7 +9,7 @@ inx-game Wordpress Gaming Theme
 INX <a href="https://wordpress.org/themes/inx-game/" target="_blank">WordPress gaming theme</a> is the best option if you want to spice up your website with the unique flavor of gambling. If you are looking for a casino environment, INX is the best option you can have for free. The game is specifically designed for a die-hard casino fan base in mind. 
 
 Well, the theme comes with both free and premium versions. Of course, you need a premium version to enjoy all advanced features, but the free version is also full of awesome options. With the pro version, you can make an affiliate casino website and earn handsome revenue. 
-INX is a stylish, modern, and clean WordPress gaming theme that also satisfies other genres. INX is also suitable for news websites, news blogs, and news portals, and coupon websites.
+INX is a stylish, modern, and clean <a href="https://athemeart.com/downloads/inx-game-wordpress-casino-theme/" target="_blank">wordpress casion theme</a> that also satisfies other genres. INX is also suitable for news websites, news blogs, and news portals, and coupon websites.
 
 Other Notable Features
 ========================================
